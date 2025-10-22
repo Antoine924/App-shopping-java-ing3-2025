@@ -1,0 +1,10 @@
+📄 FACTURE COMMANDE #50
+Client : Hugo (hugo@mail.com)
+Date   : 2025-04-24T17:42:38
+
+Articles :
+- Article ID 1 x1
+- Article ID 3 x1
+- Article ID 2 x1
+
+Merci pour votre achat !
